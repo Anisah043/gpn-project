@@ -27,6 +27,7 @@ Git - Contrôle de version
 Hébergement & Déploiement
 
 Netlify - Hébergement et déploiement continu
+Lien du site : https://gpn-project-environment.netlify.app/about.html
 GitHub - Hébergement du code source
 
 🚀 Installation et Développement
@@ -39,7 +40,7 @@ Git
 Installation
 
 Clonez le repository
-bashgit clone https://github.com/Anisah043/gpn-project.git
+git clone https://github.com/Anisah043/gpn-project.git
 cd gpn-project
 
 Installez les dépendances
